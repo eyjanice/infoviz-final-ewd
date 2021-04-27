@@ -51,6 +51,7 @@ These organizations provided outreach and case management to ensure equitable pa
 
 
 <h2> How was the outreach distributed among racial groups? </h2>
+<p style="text-align:center;"> Click a flare to zoom into the group.  Click the center of the circle to expand back out. </p>
 
 <iframe width="100%" height="1038" frameborder="0"
   src="https://observablehq.com/embed/d5467115881d5acf?cells=chart"></iframe>
