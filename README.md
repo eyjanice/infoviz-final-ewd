@@ -7,7 +7,7 @@
 
 <h2> 8 in 10 Minority owned businesses report poor financial condition due to the pandemic. </h2>
 
-In response to the economic damage resulting from the COVID-19 pandemic, the federal government passed the <br> 2.2 trillion dollar </br> Coronavirus Aid, Relief, and Economic Security (CARES) Act in March 2020.
+In response to the economic damage resulting from the COVID-19 pandemic, the federal government passed the <strong> 2.2 trillion dollar </strong> Coronavirus Aid, Relief, and Economic Security (CARES) Act in March 2020.
 
 The City of Oakland received $36.9 million, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
 
