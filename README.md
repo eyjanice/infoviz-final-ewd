@@ -12,6 +12,7 @@ In response to the economic damage resulting from the COVID-19 pandemic, the fed
 <br>
 The City of Oakland received <strong> $36.9 million</strong>, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
 <br>
+<br>
 <table class="comicGreen">
 <tbody>
 <tr>
@@ -32,7 +33,6 @@ The City of Oakland received <strong> $36.9 million</strong>, and of that the Ec
 </tr>
 </tbody>
 </table>
-
 <br>
 <br>
 These organizations provided outreach and case management to ensure equitable participation in <strong>city, county and state grant and lending programs </strong>, such as, but not limited to:
@@ -60,6 +60,7 @@ These organizations provided outreach and case management to ensure equitable pa
 <h2> What industries were helped? </h2>
 
 <span style="font-size: 15pt> <strong> Restaurant and Food Services account for 31.7% of the businesses that received support. </strong> </span>
+<br>
 
 <iframe width="100%" height="1038" frameborder="0"
   src="https://observablehq.com/embed/f94719a4334d7f04?cells=chart"></iframe>
@@ -83,13 +84,19 @@ These organizations provided outreach and case management to ensure equitable pa
 <h3> Do you need business support? </h3>
 
 COVID-19 associated shutdowns are ravaging small businesses.  Contact your local business organization for help understanding resources available for support:
+<br>
 <a href="https://oaacc.org/">African American Chamber of Commerce</a>
+<br>
 <a href="https://www.oaklandvnchamber.com/">Vietnamese Chamber of Commerce</a>
+<br>
 <a href="https://www.oaklandchinatownchamber.org/">Chinatown Chamber of Commerce</a>
+<br>
 <a href="https://www.oaklandlatinochamber.com/">Latino Chamber of Commerce</a>
+<br>
 <a href="https://unitycouncil.org/">The Unity Council</a>
+<br>
 <a href="https://occurnow.org/">OCCUR</a>
-
+<br>
 
 <p style="text-align:center;"><span style="font-size: 11pt> UC Berkeley School of Information, Spring 2021 </span></p>
 <p style="text-align:center;"><span style="font-size: 11pt> Created by: Amanda Kochak, Eunyoung Cho, Jingwei Zhang </span></p>
