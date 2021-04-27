@@ -34,10 +34,9 @@ The City of Oakland received <strong> $36.9 million</strong>, and of that the Ec
 </tbody>
 </table>
 <br>
-<br>
 These organizations provided outreach and case management to ensure equitable participation in <strong>city, county and state grant and lending programs </strong>, such as, but not limited to:
 <br>
-
+<br>
 <table class="comicGreen">
 <tbody>
 <tr>
@@ -60,7 +59,7 @@ These organizations provided outreach and case management to ensure equitable pa
 
 <span style="font-size: 15pt"> <strong> Restaurant and Food Services account for 31.7% of the businesses that received support. </strong> </span>
 <br>
-
+<br>
 <iframe width="100%" height="1038" frameborder="0"
   src="https://observablehq.com/embed/f94719a4334d7f04?cells=chart"></iframe>
   
@@ -69,6 +68,7 @@ These organizations provided outreach and case management to ensure equitable pa
 <iframe width="100%" height="724" frameborder="0"
   src="https://observablehq.com/embed/@jingweizhang1995/updated-chord-diagram?cells=chart"></iframe>
 
+<br>
 <br>
 <span style="font-size: 15pt"> <strong> Among the businesses that received outreach, at least 90* received PPP Loans. </strong> </span>
 <br>
@@ -94,6 +94,7 @@ COVID-19 associated shutdowns are ravaging small businesses.  Contact your local
 </ul>
 <br>
 
-<p style="text-align:center;"><span style="font-size: 11pt"> UC Berkeley School of Information, Spring 2021 </span></p>
-<p style="text-align:center;"><span style="font-size: 11pt"> Created by: Amanda Kochak, Eunyoung Cho, Jingwei Zhang </span></p>
+<span style="text-align:center";"font-size: 11pt"> UC Berkeley School of Information, Spring 2021 </span>
+<br>
+<span style="text-align:center";"font-size: 11pt"> Created by: Amanda Kochak, Eunyoung Cho, Jingwei Zhang </span>
 
