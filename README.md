@@ -94,7 +94,7 @@ COVID-19 associated shutdowns are ravaging small businesses.  Contact your local
 </ul>
 <br>
 
-<span style="text-align:center; font-size: 10pt"> UC Berkeley School of Information, Spring 2021 </span>
+<div style="text-align:center; font-size: 10pt"> UC Berkeley School of Information, Spring 2021 </div>
 <br>
-<span style="text-align:center; font-size: 10pt"> Created by: Amanda Kochak, Eunyoung Cho, Jingwei Zhang </span>
+<div style="text-align:center; font-size: 10pt"> Created by: Amanda Kochak, Eunyoung Cho, Jingwei Zhang </div>
 
