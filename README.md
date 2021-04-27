@@ -9,7 +9,31 @@
 
 In response to the economic damage resulting from the COVID-19 pandemic, the federal government passed the <strong> 2.2 trillion dollar </strong> Coronavirus Aid, Relief, and Economic Security (CARES) Act in March 2020.
 
-The City of Oakland received $36.9 million, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
+The City of Oakland received <strong> $36.9 million</strong>, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>East Oakland Community Development Corp/Entrepreneurship Forum (EOCDC)</p>
+</td>
+<td><span style="font-weight: 400;">Latino Chamber of Commerce (OLCC)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">African American Chamber of Commerce (OAACC</span><span style="font-weight: 400;">)</span></td>
+<td><span style="font-weight: 400;">The Unity Council</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Vietnamese Chamber of Commerce (OVCC)</span></td>
+<td><span style="font-weight: 400;">OCCUR</span>&nbsp;</td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Chinatown Chamber of Commerce (OCCC)</span></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
 
 <h2> Sunburst (Race) </h2>
 
