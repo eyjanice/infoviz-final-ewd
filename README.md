@@ -8,32 +8,30 @@
 <h2> 8 in 10 Minority owned businesses report poor financial condition due to the pandemic. </h2>
 
 In response to the economic damage resulting from the COVID-19 pandemic, the federal government passed the <strong> 2.2 trillion dollar </strong> Coronavirus Aid, Relief, and Economic Security (CARES) Act in March 2020.
-
+<br>
+<br>
 The City of Oakland received <strong> $36.9 million</strong>, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
-
-<table>
+<br>
+<table class="comicGreen">
 <tbody>
 <tr>
-<td>
-<p>East Oakland Community Development Corp/Entrepreneurship Forum (EOCDC)</p>
-</td>
-<td><span style="font-weight: 400;">Latino Chamber of Commerce (OLCC)</span></td>
+<td>East Oakland Community Development Corp/Entrepreneurship Forum (EOCDC)</td>
+<td>Latino Chamber of Commerce (OLCC)</td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;">African American Chamber of Commerce (OAACC</span><span style="font-weight: 400;">)</span></td>
-<td><span style="font-weight: 400;">The Unity Council</span></td>
+<td>African American Chamber of Commerce (OAACC)</td>
+<td>The Unity Council</td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;">Vietnamese Chamber of Commerce (OVCC)</span></td>
-<td><span style="font-weight: 400;">OCCUR</span>&nbsp;</td>
+<td>Vietnamese Chamber of Commerce (OVCC)</td>
+<td>OCCUR</td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;">Chinatown Chamber of Commerce (OCCC)</span></td>
-<td>&nbsp;</td>
+<td>Chinatown Chamber of Commerce (OCCC)</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com -->
 
 <h2> Sunburst (Race) </h2>
 
