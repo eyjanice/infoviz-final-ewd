@@ -11,7 +11,7 @@ In response to the economic damage resulting from the COVID-19 pandemic, the fed
 <br>
 <br>
 
-<p style="text-align:center;"><img src="oakland logo small3.svg"></p>
+<p style="text-align:center;"><img src="oakland logo small.svg"></p>
 <br>
 
 The City of Oakland received <strong> $36.9 million</strong>, and of that the Economic and Workforce Development Department (EWD) allocated $700,000  to contract the following community-trusted business organizations to provide linguistically & culturally appropriate business outreach & support to minority-owned businesses:
