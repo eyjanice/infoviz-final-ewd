@@ -1,7 +1,8 @@
-# Oakland Business Outreach During COVID-19
-
+<!DOCTYPE html>
 <html>
-  
+
+<p style="text-align:center;"><img src="OaklandCity.svg"></p>
+
 <iframe width="100%" height="323" frameborder="0"
   src="https://observablehq.com/embed/@amandakochak/building-an-svg-grid-with-d3?cells=chart"></iframe>
 
