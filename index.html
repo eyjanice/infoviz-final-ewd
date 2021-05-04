@@ -112,6 +112,16 @@ h1, h2, h3, h4, h5, h6 {
     });
     </script>
   
+  <div id="observablehq-chart-9d697ed4"></div>
+
+       <script type="module">
+       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+       import define from "https://api.observablehq.com/@jingweizhang1995/updated-chord-diagram.js?v=3";
+       new Runtime().module(define, name => {
+         if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-9d697ed4"));
+       });
+       </script>    
+    
     <div class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
       <h1 class="w3-center">Among the businesses that received outreach, at least 90* received PPP Loans.</h1><br>
       <h1 class="w3-center">$7,611,489 in approved PPP Loans.</h1><br><br>
