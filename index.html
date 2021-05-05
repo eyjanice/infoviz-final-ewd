@@ -34,11 +34,6 @@ p {
 .highlightdiv {
   background-color: #f4f4f4;
   }  
- 
-.highlightdiv2 {
-  background-color: #89b254;
-  color: white;
-  }   
   
 .instructions{
   font-size:15px;
@@ -155,9 +150,14 @@ new Runtime().module(define, name => {
 <br>
 <br>
     
-    <div class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+
+      
+  <div class="w3-row w3-padding-64" id="background">
+
+     <div class="w3-col m6 w3-padding-large">
+       
       <h1 class="w3-center">The Organizations Supported a Wide Range of Industry Categories</h1><br>
-    </div> 
+   
       <div class="instructions">
         <p>Hover over each area to see the number of businesses for each category. <br> Click the categories in the inner ring to zoom in. <br> Click the center of the circle to return to default.</p>
       </div>
@@ -171,10 +171,12 @@ new Runtime().module(define, name => {
       if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3e8ec1a6"));
     });
     </script>
+       
+      </div>
+    </div>
+    
   <br><br>  
-  <div class="highlight2">
-    <h1 style="text-align:center;">Restaurant and Food Services account for 22.6% of the businesses that received support.</h1>    
-   </div> 
+ 
 <br>
 <br>
 <br>    
