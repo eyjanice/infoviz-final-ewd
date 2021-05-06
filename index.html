@@ -186,28 +186,63 @@ new Runtime().module(define, name => {
    </div>
 
 
-<br>    
-<br>
-<br>
-    
-  <h1 class="w3-center">Oakland Latino Chamber of Commerce Supported the Greatest Number of Small Businesses</h1><br>
-
-  <div id="observablehq-chart-442631db"></div>
-
-  <script type="module">
-  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-  import define from "https://api.observablehq.com/d/713a111f2a86e163.js?v=3";
-  new Runtime().module(define, name => {
-    if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-442631db"));
-  });
-  </script>  
-    
-<br>
-<br>
-<br>    
-<br>
-<br>     
-    
+   <br>    
+   <br>
+   <br>
+       
+     <h1 class="w3-center">Oakland Latino Chamber of Commerce Supported the Greatest Number of Small Businesses</h1><br>
+     <div class="instructions">
+       <p>Hover over each ribbon to see the inter-relationships between data. <br> Note: displayed on the chord diagram are the top 5 most popular business categories <br></p>
+     </div>
+   
+   
+     <div id="observablehq-chart-442631db"></div>
+   
+     <script type="module">
+     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+     import define from "https://api.observablehq.com/d/713a111f2a86e163.js?v=3";
+     new Runtime().module(define, name => {
+       if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-442631db"));
+     });
+     </script>  
+       
+   <br>
+   <br>
+   <br>    
+   <br>
+   <br>     
+   
+   <div class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+     <h1 class="w3-center">How many businesses did each organzation reach out to?</h1><br>
+   </div> 
+   <div class="instructions">
+     <p>Hover over each bar to see the percise number of businesses that oragazation reached out to.<br></p>
+   </div>
+   
+   
+   
+   <div id="observablehq-viewof-order-6d996aaa" style="margin: 50px;"></div>
+   
+   <script type="module">
+   import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+   import define from "https://api.observablehq.com/@jingweizhang1995/sortable-bar-chart.js?v=3";
+   new Runtime().module(define, name => {
+     if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-6d996aaa"));
+     return ["update"].includes(name);
+   });
+   </script>
+   
+   <div id="observablehq-chart-14904de3" style="max-width:1400px;min-width:500px; margin: 0 auto;"></div>
+   
+   <script type="module">
+   import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+   import define from "https://api.observablehq.com/@jingweizhang1995/sortable-bar-chart.js?v=3";
+   new Runtime().module(define, name => {
+     if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-14904de3"));
+     return ["update"].includes(name);
+   });
+   </script>
+       
     
        <div class = "highlightdiv">
          <center>
