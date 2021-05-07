@@ -138,29 +138,21 @@ new Runtime().module(define, name => {
     
     <div class="instructions">
       <p>You can sort the bars differently by selecting the options from the dropdown menu.</p>
-    </div>
-    
-<div id="observablehq-viewof-order-f19fc410" style="margin-left: 10%;"></div>
-    
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@amandakochak/sortable-bar-chart.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-f19fc410"));
-  return ["update"].includes(name);
-});
-</script>
-    
-<div id="observablehq-chart-60925b28" style="max-width:90%;min-width:500px; margin: 0 auto;"></div>
+    </div>    
+
+<div id="observablehq-viewof-order-061ca3d1" style="margin-left: 10%;"></div>
+<div id="observablehq-chart-061ca3d1" style="max-width:90%;min-width:500px; margin: 0 auto;"></div>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@amandakochak/sortable-bar-chart.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-60925b28"));
+  if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-061ca3d1"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-061ca3d1"));
   return ["update"].includes(name);
 });
 </script>
+
 
 <br>
 <br>
