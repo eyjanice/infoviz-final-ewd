@@ -139,16 +139,15 @@ new Runtime().module(define, name => {
     <div class="instructions">
       <p>You can sort the bars differently by selecting the options from the dropdown menu.</p>
     </div>
-
-<div id="observablehq-viewof-order-5ce3e088" style="margin-left: 10%;"></div>
+    
+<div id="observablehq-viewof-order-f19fc410" style="margin-left: 10%;"></div>
 <div id="observablehq-chart-5ce3e088" style="max-width:90%;min-width:500px; margin: 0 auto;"></div>
-
+    
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/d/1d5d3db15d3c1e5d.js?v=3";
+import define from "https://api.observablehq.com/@amandakochak/sortable-bar-chart.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-5ce3e088"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-5ce3e088"));
+  if (name === "viewof order") return new Inspector(document.querySelector("#observablehq-viewof-order-f19fc410"));
   return ["update"].includes(name);
 });
 </script>
